@@ -9,4 +9,17 @@ a = 3
 b = 5
 c = 12
 
+<<<<<<< HEAD
 print(a+b+c)
+=======
+print(a+b)
+
+
+Kivonás
+-------
+
+x = 10
+y = 5
+
+print(x-y)
+>>>>>>> kivonas
